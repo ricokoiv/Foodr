@@ -1,1 +1,1 @@
-# KodutooFoodr
+# Mobiilirakenduste teine kodutöö - Foodr
